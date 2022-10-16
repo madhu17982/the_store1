@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'mydjgo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AFFB30CB60974FDEB6756A7A24F58A43 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F852C78952E54F1BAFB92A292CC144D6 }}
